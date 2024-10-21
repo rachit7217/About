@@ -8,7 +8,7 @@
 
 📊 I'm fluent in a variety of tools and technologies including:
 
-Data Manipulation: Python, Pandas, NumPy | Visualization: Matplotlib, Seaborn, Plotly | Database: MySQL | BI Tools: Tableau, Power BI, Microsoft Excel, Google Sheets 🌐 Don't hesitate to connect with me on LinkedIn (https://www.linkedin.com/in/rachit-gupta-2b6a69228) to discuss all things data, analytics, and beyond.
+Data Manipulation: Python, Pandas, NumPy | Visualization: Matplotlib, Seaborn, Plotly | Database: MySQL | BI Tools: Tableau, Power BI, Microsoft Excel, Google Sheets 🌐 Don't hesitate to connect with me on LinkedIn ( https://www.linkedin.com/in/rachit-gupta-2b6a69228 ) to discuss all things data, analytics, and beyond.
 
 📬 Feel free to reach out to me at rachitgupta8534@gmail.com for collaboration opportunities, discussions, or just a friendly chat. Let's demystify data together!
 
